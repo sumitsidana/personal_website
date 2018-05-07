@@ -154,7 +154,7 @@ p{
     background-color: #fff;
 }
 .tv-banner{
-    background: rgba(0, 0, 0, 0) url("../images/banner.jpg") no-repeat fixed right center / cover ;
+    background: rgba(0, 0, 0, 0) url("../images/sumit.png") no-repeat fixed right center / cover ;
     height: calc(100vh - 75px);
     position: relative;
     box-shadow: 0 5px 20px 1px rgba(0, 0, 0, 0.15);
@@ -165,7 +165,7 @@ p{
     transform: translateY(-50%);
 }
 .tv-banner-content .tv-hi-text{
-    color: #333;
+    color: #FFFFFF;
     font-size: 36px;
     line-height: 52px;
 }
@@ -182,7 +182,7 @@ p{
     padding-left: 100px;
 }
 .tv-profession{
-    color: #333;
+    color: #FFFFFF;
     font-size: 14px;
     line-height: 36px;
     text-transform: uppercase;
